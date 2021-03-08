@@ -1,10 +1,10 @@
 {
    "type": "mysql",
-   "host": "192.168.0.115",
+   "host": "",
    "port": 3306,
-   "username": "dev",
-   "password": "xs54bg21",
-   "database": "nodeauth",
+   "username": "",
+   "password": "",
+   "database": "",
    "synchronize": true,
    "logging": true,
    "entities": [
